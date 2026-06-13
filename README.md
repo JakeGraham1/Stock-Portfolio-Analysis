@@ -1,6 +1,6 @@
 ## Stock Portfolio Risk & Return Analysis
 
-I analszed 2 years of price data for four UK-listed companies (BAE Systems, Rolls-Royce, Lloyds, Unilever) using Python (pandas, yfinance, matplotlib).
+I analysed 2 years of price data for four UK-listed companies (BAE Systems, Rolls-Royce, Lloyds, Unilever) using Python (pandas, yfinance, matplotlib).
 
 **Key findings:**
 - Annualised volatility ranged from 18.85% (Unilever) to 36.77% (Rolls-Royce), broadly matching expectations — defensive consumer stocks (Unilever) showed lower volatility than cyclical/aerospace stocks (Rolls-Royce, BAE).
